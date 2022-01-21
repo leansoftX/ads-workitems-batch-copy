@@ -21,15 +21,15 @@ Workitems Batch Copy Extension can help you easily copy workitems to another pro
 
 1. Select the workitems you want to copy and click "Batch Copy" on the right-click context menu.
 
-![](static/img/en-screenshot01.png)
+![](images/en-screenshot01.png)
 
 2. Select the target project and config copy options, then click "Execute" button.
 
-![](static/img/en-screenshot02.png)
+![](images/en-screenshot02.png)
 
 3. Success message will popup after copying.
 
-![](static/img/en-screenshot03.png)
+![](images/en-screenshot03.png)
 
 ### Bussiness Support
 
@@ -59,15 +59,15 @@ Please feel free to contact us by email: henryli@leansoftx.com
 
 1. 选择要复制的工作项，单击右键，点击 “Batch Copy” 菜单，如下图所示：
 
-![](static/img/screenshot01.png)
+![](images/screenshot01.png)
 
 2. 选择要复制到的目标项目，以及复制相关其他配置项，并点击 “Execute” 如下图所示：
 
-![](static/img/screenshot02.png)
+![](images/screenshot02.png)
 
 3. 复制成功后会弹出对应的提示，如下图所示：
 
-![](static/img/screenshot03.png)
+![](images/screenshot03.png)
 
 
 
